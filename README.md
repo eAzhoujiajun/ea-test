@@ -1,4 +1,4 @@
-ea-test
+tea-test
 =======
 touch README.md
 git init
